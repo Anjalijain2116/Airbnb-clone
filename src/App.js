@@ -18,7 +18,7 @@ function App() {
         <Routes>
       
           <Route exact path="search" element={<SearchPage/>}/>
-          <Route  path="/" element={<Home/>}/>  
+          <Route  path="/airbnb-clone" element={<Home/>}/>  
             {/* <SearchPage /> */}
           {/* </Route> */}
          
